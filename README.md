@@ -1,9 +1,8 @@
-# flutter_donut
+<h1>flutter_donut</h1>
+<b>Welcome to the flutter_donut project—a starting point for your Flutter application development!</b>
 
-A new Flutter project.
-
-## Getting Started
-
+<h1>Project Overview</h1>
+This project serves as a foundation for building Flutter applications. It includes some essential resources and examples to help you get started.
 This project is a starting point for a Flutter application.
 <br>
 <img width="372" alt="T1" src="https://github.com/user-attachments/assets/5f59cba4-2401-473d-86f8-9bb61cc329b0">
